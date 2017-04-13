@@ -18,6 +18,10 @@
 
     <!-- Login progress -->
 
+
+
+    <!--das ist ein test -->
+
     <ProgressBar
         android:id="@+id/login_progress"
         style="?android:attr/progressBarStyleLarge"
